@@ -19,3 +19,5 @@ trojkat = Trojkat(2,5)
 
 print(kwadrat.pole_pow())
 print(trojkat.pole_pow())
+
+'''The end of the program'''
